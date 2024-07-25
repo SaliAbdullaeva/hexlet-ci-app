@@ -1,3 +1,5 @@
+![GitHub Actions Status](https://github.com/SaliAbdullaeva/hexlet-my-first-workflow/actions/workflows/main.yml/badge.svg)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
